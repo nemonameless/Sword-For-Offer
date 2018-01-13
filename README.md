@@ -1,6 +1,7 @@
 # Sword-To-Offer 
-Coding Interviews--《剑指offer》第二版，原作者：https://github.com/zhedahht/CodingInterviewChinese2        
-### 数组题目：
+Coding Interviews--《剑指offer》第二版，原作者：https://github.com/zhedahht/CodingInterviewChinese2                
+牛客网在线编程：https://www.nowcoder.com/ta/coding-interviews 
+### 数组：
 面试题3 (一)：找出数组中重复的数字        
 面试题3（二）：不修改数组找出重复的数字      
 面试题4：二维数组中的查找             
@@ -8,7 +9,7 @@ Coding Interviews--《剑指offer》第二版，原作者：https://github.com/z
 面试题42：连续子数组的最大和              
 面试题45：把数组排成最小的数               
 面试题51：数组中的逆序对                      
-### 链表题目：
+### 链表：
 面试题6：从尾到头打印链表                      
 面试题18（一）：在O(1)时间删除链表结点                  
 面试题18（二）：删除链表中重复的结点                    
@@ -18,7 +19,7 @@ Coding Interviews--《剑指offer》第二版，原作者：https://github.com/z
 面试题25：合并两个排序的链表             
 面试题35：复杂链表的复制              
 面试题52：两个链表的第一个公共结点              
-### 字符串题目：
+### 字符串：
 面试题5：替换空格             
 面试题19：正则表达式匹配           
 面试题20：表示数值的字符串           
@@ -32,7 +33,7 @@ Coding Interviews--《剑指offer》第二版，原作者：https://github.com/z
 面试题9：用两个栈实现队列            
 面试题30：包含min函数的栈            
 面试题31：栈的压入、弹出序列           
-### 二叉树题目：
+### 二叉树：
 面试题7：重建二叉树             
 面试题8：二叉树的下一个结点            
 面试题26：树的子结构           
@@ -48,7 +49,7 @@ Coding Interviews--《剑指offer》第二版，原作者：https://github.com/z
 面试题54：二叉搜索树的第k个结点                 
 面试题55（一）：二叉树的深度               
 面试题55（二）：平衡二叉树                
-### 查找和排序题目： 
+### 查找和排序： 
 面试题11：旋转数组的最小数字               
 面试题40：最小的k个数             
 面试题41：数据流中的中位数              
