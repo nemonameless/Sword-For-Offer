@@ -1,5 +1,5 @@
 # Sword-To-Offer 
-Coding Interviews--《剑指offer》第二版，原作者：https://github.com/zhedahht/CodingInterviewChinese2                
+Coding Interviews--《剑指offer》第二版，原作者：https://github.com/zhedahht/CodingInterviewChinese2                
 牛客网在线编程：https://www.nowcoder.com/ta/coding-interviews 
 ### 数组：
 面试题3 (一)：找出数组中重复的数字        
