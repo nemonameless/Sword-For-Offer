@@ -1,5 +1,5 @@
-# Sword-To-Offer
-Coding Interviews 剑指offer
+# Sword-To-Offer 
+Coding Interviews--《剑指offer》第二版，原作者：https://github.com/zhedahht/CodingInterviewChinese2        
 ### 数组题目：
 面试题3 (一)：找出数组中重复的数字        
 面试题3（二）：不修改数组找出重复的数字      
